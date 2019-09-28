@@ -3,6 +3,14 @@ body{
 	background-repeat: repeat;
 }
 
+#studia{
+	font-size: 36pt;
+	color: white;
+	margin-top: 30px;
+	margin-left: 20%;
+	margin-bottom: 100px; 
+}
+
 .header{
 	margin-bottom: 40px;
 	width: 90%;
@@ -98,8 +106,33 @@ img{
 
 .about{
 	padding-top: 30px;
+	padding-bottom: 30px;
 	padding-bottom: 50px;
 	width: 90%;
 	margin:auto;
+	
+}
+
+.wrapper-form{
+	width: 80%
+
+}
+
+#send{
+	padding-top: 40px;
+	padding-bottom: 40px;
+	margin:auto;
+	width: 80%;
+	display:flex;
+	flex-direction: column;
+}
+
+#message{
+	height: 300px;
+	margin-bottom: 20px;
+}
+
+.btn{
+	margin-top: 30px;
 	
 }
