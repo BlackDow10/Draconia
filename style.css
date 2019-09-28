@@ -50,18 +50,24 @@ footer{
 	width: 100%;
 	margin-top: 30px;
 }
+.fon{
+	background-image: url(src/fon.jpg);
+}
+
 
 main{
+	max-width: 1200px;
 	width: 80%;
 	min-width: 800px;
 	
-	background-image: url(src/fon.jpg);
+	
 	margin: auto;
 	opacity: 0.9;
 	margin-top: 30px;
 }
 
 .news-wrapper{
+	
 	width: 90%;
 	margin: auto;
 
@@ -74,4 +80,25 @@ main{
 
 .cont-wrapper{	
 	margin-left: 100px;
+}
+
+.project{
+	padding-top: 30px;
+	padding-bottom: 50px;
+	width: 90%;
+	margin:auto;
+	margin-top: 50px;
+}
+
+img{
+	margin-top: 30px;
+	margin-bottom: 40px;
+}
+
+.about{
+	padding-top: 30px;
+	padding-bottom: 50px;
+	width: 90%;
+	margin:auto;
+	margin-top: 50px;
 }
