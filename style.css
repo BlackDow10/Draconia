@@ -52,6 +52,7 @@ footer{
 }
 .fon{
 	background-image: url(src/fon.jpg);
+	margin-top: 50px;
 }
 
 
@@ -100,5 +101,5 @@ img{
 	padding-bottom: 50px;
 	width: 90%;
 	margin:auto;
-	margin-top: 50px;
+	
 }
